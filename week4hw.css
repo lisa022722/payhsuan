@@ -1,0 +1,244 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+ margin: 0;
+ padding: 0;
+ border: 0;
+ font-size: 100%;
+ font: inherit;
+ vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+ display: block;
+}
+body {
+ line-height: 1;
+}
+ol, ul {
+ list-style: none;
+}
+blockquote, q {
+ quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+ content: '';
+ content: none;
+}
+table {
+ border-collapse: collapse;
+ border-spacing: 0;
+}
+
+.wrap{
+ width: 825px;
+ margin: 0 auto;
+}
+
+.header{
+	float:left;
+	margin: 10px;
+}
+.header2{
+	float: right;
+	margin-top:10px;
+}
+.header3{
+	float:right;
+	margin-right: 5px;
+	margin-top:10px;
+}
+
+#Exa1 li{
+float:right;
+margin-right:15px;
+margin-top:70px;
+padding-right: 25px;
+}
+.photo{
+	width: 500px;
+}
+.clear{
+  clear: both
+}
+.bg{
+	height: 325px;
+	background-color: #444444;
+}
+
+.content{
+	float: left;
+	margin-right: 45px;
+	/*background: #FFFFFF;*/
+}
+h2{
+	padding-top: 20px;
+	padding-right: 5px;
+	color: blue;
+	font-size: 30px;
+}
+.noob{
+	padding-right: 30px;
+	}
+p{
+	color:#FFFFFF;
+	margin-top: 15px;
+	padding-left: 10px;
+}
+.box-left{
+	/*line-height: 15px;*/
+	padding-top:20px;　
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	width: 805px;
+	height: 80px;
+	margin-top: 30px;
+	margin-right: 300px;
+	background: #FFFFFF;
+	float: left;
+	/*text-align:center;*/
+}
+.package{
+	float: left;
+	width: 560px;
+	margin-top: 30px;
+	/*padding-right: 30px;*/
+	padding-left: 30px;
+	background-color: white;
+}
+.box-center{
+	padding-bottom: 30px;
+
+	height: 200px;
+	margin-top: 40px;
+	margin-left: 10px;
+	
+	/*float: left;*/
+}
+.icon{
+	float: left;
+	width: 150px;
+}
+.new{
+	width: 400px;
+	float: left;
+}
+h3{
+	/*margin-top: 5px;*/
+	margin-left: 70px;
+	color: black;
+	font-size: 20px;
+}
+.content2{
+	padding-right:30px;
+	margin-left: 70px;
+	margin-right: 40px;
+	font-size: 15px;
+	color: black;
+}
+.new2{
+	width: 400px;
+	float: left;
+}
+
+.pic{
+	width: 200px;
+}
+.icon2{
+	float: left;
+	width: 150px;
+}
+
+#title{
+	width: 200px;
+	margin-top: 40px;
+	/*margin-left: 200px;*/
+	/*float:right;*/
+}
+#title2{
+	margin-right: 30px;
+	margin-top: 55px;
+}
+.menu{
+	width: 200px;
+	margin-top: 25px;
+	/*margin-left: 80px;*/
+	/*float:right;*/
+}
+
+.box-right{
+	padding-bottom: 30px;
+	height: 150px;
+
+	margin-left: 10px;
+
+	
+	/*float: left;*/
+}
+.least{
+	/*margin-right: 10px;*/
+	margin-top: 30px;
+	padding-bottom: 16px;
+	padding-top: 8px;
+	float:left;
+	background-color: white;
+}
+.clear{
+  clear: both
+}
+#title2{
+	width: 200px;
+	padding-top: 10px;
+	/*margin-top: 70px;
+	margin-left: 200px;*/
+	/*float:right;*/
+}
+.put{
+	width: 150px;
+	height: 30px;
+	/*float: right;*/
+	margin-top: 30px;
+	/*margin-right: 40px;*/
+}
+
+.new3{
+	width: 80px;
+	height: 50px;
+	/*float: right;*/
+	margin-top: 20px;
+	/*margin-right: 110px;
+*/
+}
+
+.footer{
+	 line-height:25px; 
+	text-align: center;
+	/*margin-left: 500px;*/
+	background: C:\Users\lisatuo\Desktop\課程ppt\web前端\版型一\版型一\images\bg_html.jpg;
+	/*padding-left:10px;*/
+	padding-bottom: 10px;
+	padding-top: 50px;
+	/*padding-right: 10px;*/
+}
+
+.black{
+	color: black;
+}
